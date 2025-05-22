@@ -1,0 +1,10 @@
+*.jpg
+*.png
+__init__.py
+*.pyc
+*.pyo
+*.pyd
+data.csv
+.venv
+*.lock
+*.toml
