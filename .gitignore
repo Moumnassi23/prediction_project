@@ -8,3 +8,4 @@ __init__.py
 *.yml
 *.yaml
 *.log
+*.pkl
